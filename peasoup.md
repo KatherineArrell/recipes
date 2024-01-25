@@ -4,4 +4,5 @@
 - potato
 - spring onion
 # Instructions
+- shell the peas
 
